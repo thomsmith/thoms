@@ -1,0 +1,23 @@
+title: thoms.co
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: ""
+footer_text: "Researcher Theme"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Blog"
+   link: "/blog.html"
+ - name: "About"
+   link: "/about.html"
+ - name: "Contact"
+   link: "/contact.html"
